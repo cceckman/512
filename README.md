@@ -1,3 +1,10 @@
+# 512
+An easier clone of 2048. [Mom](http://edieeckman.com) complained that getting to 2048 takes too long, so.
+
+All due credit to Gabriele Cirulli and other contributors for [2048](http://github.com/gabrielecirulli/2048).
+
+--------------------------
+
 # 2048
 A small clone of [1024](https://play.google.com/store/apps/details?id=com.veewo.a1024), based on [Saming's 2048](http://saming.fr/p/2048/) (also a clone).
 
